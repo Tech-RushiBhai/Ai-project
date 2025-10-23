@@ -1,0 +1,5 @@
+{
+  "name": "Audio Editor Pro",
+  "description": "A simple web-based tool to apply fade effects and combine audio tracks. Upload your audio files, adjust the settings, and download your edited sound.",
+  "requestFramePermissions": []
+}
